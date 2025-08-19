@@ -74,12 +74,13 @@ Control de versiones: Git, GitHub
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📂 Estructura del Repositorio
-├── Análisis Hipermercado.pbix   # Archivo de Power BI con el dashboard
-├── Mermas.csv                   # Datos de mermas
-├── NPS.csv                      # Datos de NPS
-├── Ventas.csv                   # Datos de ventas
-└── README.md                    # Este archivo
+## 📂 Estructura del Repositorio
+
+├── Análisis Hipermercado.pbix   # Archivo de Power BI con el dashboard  
+├── Mermas.csv                   # Datos de mermas  
+├── NPS.csv                      # Datos de NPS  
+├── Ventas.csv                   # Datos de ventas  
+└── README.md                    # Este archivo  
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
