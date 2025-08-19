@@ -24,7 +24,7 @@ Pare que estos segmentadores funcionen correctamente despues de transformar los 
 * Contamos con una barra con los KPI's que se actualizaran al utilizar los segmentadores, estos nos aportan información muy importante sobre el negocio como el total de la venta, la productividad, total de la merma, cantidad de tickets y la media de los mismos.
 <img width="978" height="192" alt="kpi" src="https://github.com/user-attachments/assets/ae7c5dac-5402-47f2-ae5a-1a3a53b44c37" />
 
-ç-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 + Los gráficos con los que contamos son los siguientes: 
 
