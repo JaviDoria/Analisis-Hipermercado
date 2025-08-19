@@ -107,3 +107,5 @@ Aplicar técnicas de procesamiento de datos para la creación de un dashboard in
 Proporcionar una herramienta visual para el análisis del desempeño del hipermercado.
 
 Identificar áreas de mejora basadas en datos concretos.
+
+LINK DEL DASHBOARD: (https://app.powerbi.com/view?r=eyJrIjoiODgwOTdiYjEtMjQ2MC00YTYzLWEyMjItMTVjMDJjZWU2MmE5IiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9)
