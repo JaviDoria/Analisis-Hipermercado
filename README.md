@@ -88,7 +88,7 @@ Control de versiones: Git, GitHub
 
 Clona el repositorio:
 
-git clone https://github.com/JaviDoria/Analisis-Hipermercado.git
+https://github.com/JaviDoria/Analisis-Hipermercado.git
 
 
 Abre el archivo Análisis Hipermercado.pbix en Power BI.
